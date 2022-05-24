@@ -1,5 +1,7 @@
 # tunic-writer-app
 
+[![Check](https://github.com/naxmefy/tunic-writer-app/actions/workflows/check.yml/badge.svg)](https://github.com/naxmefy/tunic-writer-app/actions/workflows/check.yml)
+
 inspired by https://github.com/mitchellwarr/tunic-writer
 
 ## Additional Credits Due
