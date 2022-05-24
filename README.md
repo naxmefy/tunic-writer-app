@@ -1,5 +1,13 @@
 # tunic-writer-app
 
+
+**release**
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/naxmefy/tunic-writer-app)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/naxmefy/tunic-writer-app)
+
+**dev**
+
 [![Check](https://github.com/naxmefy/tunic-writer-app/actions/workflows/check.yml/badge.svg)](https://github.com/naxmefy/tunic-writer-app/actions/workflows/check.yml)
 
 inspired by https://github.com/mitchellwarr/tunic-writer
